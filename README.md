@@ -29,7 +29,7 @@ Download file model dan simpan di folder yang sama dengan script:
 
 Jalankan script dengan file gambar Anda:
 ```bash
-python upscaler.py gambar.jpg
+py upscaler.py gambar.jpg
 ```
 
 Script akan menanyakan pilihan:
@@ -38,7 +38,7 @@ Script akan menanyakan pilihan:
 
 ## Contoh
 ```bash
-python upscaler.py foto.jpg
+py upscaler.py foto.jpg
 ```
 Output: `foto_realesrgan_4x.png`
 
